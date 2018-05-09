@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Survivrr</string>
+    <string name="login">Log-in</string>
+    <string name="signup">Sign-up</string>
+    <string name="uname">Username</string>
+    <string name="password">Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="birthday">Birthday</string>
+    <string name="next">Next</string>
+    <string name="address">Address</string>
+    <string name="phone">Contact Number</string>
+    <string name="back">Back</string>
+    <string name="blood_type">Blood type</string>
+    <string name="allergy">Allergies</string>
+    <string name="med_cond">Medical condition/s</string>
+    <string name="ptcicoe">Person to contact in case of emergency</string>
+    <string name="finish">Finish</string>
+    <string name="date_format">dd/mm/yyyy</string>
+    <string name="confirm_pw">Confirm Password</string>
+    <string-array name="blood_type_array">
+        <item>O</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+    </string-array>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_username">Enter Username</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="error_message_confirm_password">Confirm Password</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="error_valid_username_password">Wrong Username or Password</string>
+    <string name="user_profile">User Profile</string>
+    <string name="update">Update</string>
+    <string name="username_exists">Username already exists!</string>
+    <string name="profile_updated">Profile updated!</string>
+    <string name="error_message_no_name">Enter Name</string>
+    <string name="error_message_no_birthday">Enter Birthday</string>
+    <string name="error_message_no_address">Enter Home Address</string>
+    <string name="error_message_no_phone">Enter Phone Number</string>
+    <string name="error_message_password_mismatch">Passwords do not match!</string>
+    <string name="error_message_username_already_exists">User already exists!</string>
+</resources>
